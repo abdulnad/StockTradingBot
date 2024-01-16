@@ -6,7 +6,7 @@ Welcome to my short little project which involves a pseudo stock trading algorit
 
 The three main components of this algorithm are:
 
-# 1.Moving Averages:
+# 1. Moving Averages:
 
 The bot calculates two moving averages over different periods: a short-term moving average (shortTermMA) and a long-term moving average (longTermMA).
 Moving averages are used to smooth out price fluctuations and identify trends.
